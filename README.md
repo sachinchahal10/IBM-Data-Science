@@ -1,1 +1,12 @@
 # IBM-Data-Science
+![1-notebook](https://user-images.githubusercontent.com/59883123/236040970-fb0e9b0f-696f-40d6-a6b3-380d4e5d5503.png)
+![2-title](https://user-images.githubusercontent.com/59883123/236040982-ca5a9b28-9e7a-4d27-be10-f1880f92a5b1.png)
+![3-intro](https://user-images.githubusercontent.com/59883123/236040987-54a4f2ff-cc8e-40ce-b35a-094bbcb5be7e.png)
+![4-dslanguages](https://user-images.githubusercontent.com/59883123/236040991-2cfaf68f-4e69-4db5-b19a-3069ffad5885.png)
+![5-dslibraries](https://user-images.githubusercontent.com/59883123/236040992-db012656-e81b-464f-af95-f3b1a83077b1.png)
+![6-dstools](https://user-images.githubusercontent.com/59883123/236040994-ab73ad76-f9ed-463b-9c6f-8f3b4e1cb0a9.png)
+![7-introarithmetic](https://user-images.githubusercontent.com/59883123/236040998-9eab5138-ce9a-460c-8cf9-d5ec7d5e60b0.png)
+![8-multiplyandaddintegers](https://user-images.githubusercontent.com/59883123/236041002-01004d18-4976-4797-9371-18f4d1fedec4.png)
+![9-hourstominutes](https://user-images.githubusercontent.com/59883123/236041006-a62399cf-86aa-410b-ae9d-f2e99c63cee5.png)
+![10-objectives](https://user-images.githubusercontent.com/59883123/236041009-2c8a668f-4fb0-4b21-abb5-1ca5213ba8f5.png)
+![11-authordetails](https://user-images.githubusercontent.com/59883123/236041014-5edf92dd-ba54-462d-a6a5-96ec0ba947df.png)
